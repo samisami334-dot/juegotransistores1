@@ -1,0 +1,9 @@
+;!@Install@!UTF-8!
+Title="Transistores Launcher portable"
+BeginPrompt="Se va a extraer Transistores Launcher. ¿Continuar?"
+RunProgram="index_twine_launcher.html"
+;EndPrompt="Presione OK para terminar."
+;UnpackPath is the folder where files will be extracted (default is temp)
+;Example: ExtractPath="%TEMP%\Transistores"
+;Parameters can be added as needed
+;!@InstallEnd@!
